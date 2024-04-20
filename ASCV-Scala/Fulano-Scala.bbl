@@ -1,0 +1,33 @@
+\begin{thebibliography}{Wam21}
+
+\bibitem[Hun18]{Hunt2018}
+John Hunt.
+\newblock {\em A Beginner's Guide to Scala, Object Orientation and Functional Programming}.
+\newblock Springer-Verlag International, Cham, Switzerland, 2 edition, March 2018.
+
+\bibitem[RH04]{roy04}
+Peter~Van Roy and Seif Haridi.
+\newblock {\em {Concepts, Techniques and Models of Computer Programming}}.
+\newblock {The MIT Press}, Cambridge, 2004.
+
+\bibitem[Seb18]{Sebesta2018}
+Robert~W. Sebesta.
+\newblock {\em {Conceitos de Linguagens de Programa{\c{c}}{\~a}o}}.
+\newblock Bookman, {Porto Alegre, RS}, 11 edition, 2018.
+
+\bibitem[Upa19]{Upadhyaya2019}
+Bhim~P. Upadhyaya.
+\newblock {\em Data Structures and Algorithms with Scala}.
+\newblock Springer-Verlag International, Cham, Switzerland, 1 edition, March 2019.
+
+\bibitem[Wam21]{Wampler2021}
+Dean Wampler.
+\newblock {\em Programming Scala}.
+\newblock O'Reilly Media Inc., Sebastopol, CA, 3 edition, July 2021.
+
+\bibitem[Wha20]{Whaling2020}
+Richard Whaling.
+\newblock {\em Modern Systems Programming with Scala Native}.
+\newblock O'Reilly Media Inc., Raleigh, NC, 1 edition, February 2020.
+
+\end{thebibliography}

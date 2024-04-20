@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2024/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Fulano-Scala.aux
+The style file: alpha.bst
+Database file #1: Scala.bib
+You've used 6 entries,
+            2543 wiz_defined-function locations,
+            596 strings with 5108 characters,
+and the built_in function-call counts, 1768 in all, are:
+= -- 160
+> -- 59
+< -- 5
++ -- 17
+- -- 16
+* -- 110
+:= -- 307
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 30
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 95
+empty$ -- 151
+format.name$ -- 27
+if$ -- 359
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 33
+num.names$ -- 18
+pop$ -- 43
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 62
+stack$ -- 0
+substring$ -- 43
+swap$ -- 6
+text.length$ -- 5
+text.prefix$ -- 5
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 13
+width$ -- 8
+write$ -- 85
