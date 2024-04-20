@@ -2,7 +2,7 @@
 ;; Prof. Ausberto S. Castro Vera       (ascv@uenf.br)
 ;; UENF-CCT-LCMAT - Curso de Ciencia da Computacao
 ;; 2024
-;; Aluno: Fulano      <===========  escreva seu nome aqui
+;; Aluno: Marcos Bruno     <===========  escreva seu nome aqui
 
 ;;;;;;;;;;;;;;;;   Escolha a linguagem R5RS
 ;;
@@ -14,7 +14,7 @@
 (newline)
 (display "  Paradigmas de Linguagens de Programacao (Prof. Ausberto Castro)")
 (newline)
-(display "  Aluno:  Fulano ")
+(display "  Aluno:  Marcos Bruno ")
 (newline)
 ;;
 ;;
