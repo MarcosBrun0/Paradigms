@@ -1,0 +1,73 @@
+
+Aula Paradigmas 7/5/24
+
+RECAPITULAÇÃO
+
+caracteristica do paradigma funcional
+-avaliar expressos do tipo funções matemáticas 
+-(f a)
+Ex: Racket
+
+Caracteristica do paradigma logico
+-avaliar expressões declarativas
+-verdadeiro ou falso
+Ex: Prolog
+
+INICIO - Paradigma imperativo
+
+> Paradigma imperativo
+
+-imperativo = obrigatorio
+-intruções precisam ser executadas de forma obrigatoria
+
+> Caracteristicas
+
+4 elementos básicos
+1. Variaveis: referencia um endereço da memoria
+-por que declaramos Variaveis? por causa dos dados
+2. Comandos: processos
+3. Modulos(procedimentos/funções)
+4. Abstração de dados 
+
+> Vantagens
+
+98% das linguagens são imperativas 
+Ex: Java, Python, Ruby
+ferramentas consolidadas Ex: vscode, compiladores 
+Variaveis globais
+
+> Problemas
+
+Variaveis globais tornam um programa não gerenciavel conforme escala
+sintaxe não padronizada
+Semântica: definir(modelo)
+problemas de memoria(Variaveis globais)
+
+
+vamos usar o scilab para usar o paradigma imperativo
+
+linguaguem SCILAB 
+-matlab like 
+-interpretada ao inves de compilada
+
+Caracteristicas
+-toolbox
+	-Graficos
+	-Simulação
+	-Estatistica
+	-etc
+
+ex:
+
+matrizes
+A x B
+mxn nxt
+
+ |1|2|    |3|4|5|
+A|4|5| x B|7|8|9| = mxt
+ |7|8| 
+
+
+usamos vetores
+
+
