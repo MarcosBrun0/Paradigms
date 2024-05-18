@@ -34,5 +34,6 @@ m8 = rand(2,3)       // matriz randomica 2x3
 
 m9 = m5'             // matriz transposta
 
+print(m9)
 
 
