@@ -10,7 +10,7 @@ clear; clc;
 // propriedades da figura 
 f=gcf();
 // --------------------------------- altere a próxima linha com seu nome:
-f.figure_name='UENF - Paradigmas Scilab - 2024 - Fulano da Silva';
+f.figure_name='UENF - Paradigmas Scilab - 2024 - Marcos Bruno';
 
 // propriedades dos eixos
 da=gca(); // 
@@ -20,6 +20,8 @@ da.title.font_size = 5;
 da.title.text="Titulo do Grafico: y = 8sen(x) - sen(8x)";     
 da.x_label.text="Eixo X"; 
 da.y_label.text="valor de y = f(x) "; 
+da.x_location='middle';
+da.y_location='middle';
 
 //----------------------------------------------------------
 x = -%pi:0.1:%pi;  // Desde -Pi ate Pi com intervalo de 0.1

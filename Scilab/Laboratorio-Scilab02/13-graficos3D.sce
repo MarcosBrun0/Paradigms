@@ -6,7 +6,7 @@
 //
 // ======> Assunto:  Programacao: GRAFICOS III ==================
 clear; clc; clf();
-Aluno = 'Fulano de Silva';  // <============ Nome do aluno
+Aluno = 'Marcos Bruno';  // <============ Nome do aluno
 
 // propriedades da figura: NÃO alterar !!
 dt=getdate(); dd= ' ('+string(dt(7)) + ':'+string(dt(8))+')' ;
@@ -28,6 +28,6 @@ plot3d(x,y, z);     // graficos 3D
 //---------------------------------------------------------------
 
 f=get("current_figure");         // get the handle of the parent figure 
-f.color_map=hotcolormap(12);      // muda o colormap  --> help colormap
+f.color_map=hotcolormap('blue');      // muda o colormap  --> help colormap
  
 xtitle('z = sin(x'')*cos(y)');   // titulo do grafico

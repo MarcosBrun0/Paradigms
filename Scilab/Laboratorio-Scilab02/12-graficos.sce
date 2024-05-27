@@ -15,13 +15,13 @@ xtitle('y = xcos(x)');   // titulo do grafico
 // propriedades da figura
 f=gcf();
 // --------------------------------- altere a próxima linha com seu nome:
-f.figure_name='UENF - Paradigmas Scilab - 2024  - Fulano da Silva';
+f.figure_name='UENF - Paradigmas Scilab - 2024  - Marcos Bruno';
 
 // propriedades dos eixos
 da=gca(); // 
 da.title.font_size = 5;
 da.title.font_foreground = 5;    // 5=vermelho
-da.title.text="Titulo do Grafico";  // comentar esta linha e observar o que acontece
+//da.title.text="Titulo do Grafico";  // comentar esta linha e observar o que acontece
 da.x_label.text="Tempo"; 
 da.x_location='middle'; 
 da.y_label.text="Valor de y  =  xcos(x)"; 
