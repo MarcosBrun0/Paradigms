@@ -1,0 +1,59 @@
+
+
+
+
+AULA PARADIGMAS - ORIENTAÇÃO A OBJETOS (O-O)
+
+Caracetriticas O-O
+1. Classes e Obj
+2. Métodos
+3. Herança
+4. Polimorfismo
+5. Encapsulmaento
+
+
+
+REAL                ABSTRATO               REAL
+OBJETOS---ABS------> CLASSES ----IMP------> OBJETOS
+
+ABS = ABSTRAÇÃO
+IMP = IMPLEMENTAÇÃO
+
+__________________
+|()()()()()()()()|  [] = ATRIBUTOS
+|()[ATRIBUTOS]())|  () = METODOS
+|()()()()()()()()|   | = ENCAPSULAMENTO
+"""""""""""""""""" 
+
+
+EXEMPLO:
+
+-classe
+
+Mochila
+----------
+-atributos
+
+marca
+cor
+tipo
+----------
+-metodos
+abre()
+
+# metodos get e put para cada atributo, então no caso de 3 atributos teremos 6 metodos básicos mais algum metodo adicional 
+
+
+
+começa pelo mais básico 
+ex criar classes alunos e professores, primeiro criar a classe pessoas.
+
+calculo de metodos de um obj
+n = atributos
+m = metodos
+m = 2n+2  #get e put + construct and destruct obj
+
+
+(obj ----> classe) = classificação
+(classe ----> obj) = instanciação
+
