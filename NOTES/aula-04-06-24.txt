@@ -1,0 +1,15 @@
+AULA SOBRE JAVA
+
+Abstração é um conceito usado para ocultar detalhes das coisas.
+
+TIPO DE DADO ABASTRATO
+
+o que é valor?(ponto de vista computacional)
+qualquer coisa que a gente armazena na memoria - dados
+variavel é o nome do endereço que referencia o valor
+tipo 
+
+isso tudo junto forma um tipo ABASTRATO de dados
+
+em Orientação a Objeto o tipo ABASTRATO de dados é usado com o conceito de polimorfismo
+

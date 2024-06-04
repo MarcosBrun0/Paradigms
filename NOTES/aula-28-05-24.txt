@@ -57,3 +57,23 @@ m = 2n+2  #get e put + construct and destruct obj
 (obj ----> classe) = classificação
 (classe ----> obj) = instanciação
 
+
+
+agregaçã= juntar classes
+
+ex classe: teclado + monitor + gabinete = computador.
+descomposição é o inverso
+
+-Construtores
+armazena espaço na memoria pro objeto
+-Destrutores 
+liberam espaço na memoria
+
+#metodo para criar e destruir deve ter o msm nome da classe
+diferença:
+
+  construct: meotodo nome
+  destruct: metodo ~nome
+
+
+
